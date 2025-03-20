@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Computer science student at the GIU who's currently working on creating a database and a website for an educational platform and a cpp card programming game.
 
 
