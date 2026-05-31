@@ -1,5 +1,5 @@
 #  About Me:
-A computer science student at the GIU.
+A Data Science student at the GIU.
 
 
 ## 🌐 Socials:
